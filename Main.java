@@ -20,6 +20,9 @@ public class Main {
     public static int add(int a, int b) {
         return a + b;
     }
+    public static int sub(int a, int b) {
+        return a - b;
+    }
 
     // Method to display the result
     public static void displayResult(int sum) {
